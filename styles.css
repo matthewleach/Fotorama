@@ -1,0 +1,18 @@
+ /*
+
+  This content should be already be in your framework.
+
+*/
+ 
+ * {
+     box-sizing: border-box;
+ }
+ 
+ .container {
+     width: 960px;
+     margin: auto;
+ }
+ 
+ body {
+     margin: 50px auto 100px auto;
+ }
